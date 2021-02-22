@@ -14,3 +14,5 @@ or
 ### `npm start`
 Open (http://localhost:3000) to view it in the browser.
 
+To log in the todo list : email: "user@gmail.com",
+    password: "user2021"
